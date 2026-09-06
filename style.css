@@ -2,6 +2,9 @@ body{
   background:linear-gradient(cyan,blue);
   background-repeat:no-repeat;
   background-attachment:fixed;
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
 .glass{
   width:300px;
