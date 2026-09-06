@@ -1,5 +1,5 @@
 body{
-  background: #222222;
+  background:linear-gradient(cyan,blue);
 }
 .glass{
   width:300px;
