@@ -1,5 +1,7 @@
 body{
   background:linear-gradient(cyan,blue);
+  background-repeat:no repeat;
+  background-attachment:fixed;
 }
 .glass{
   width:300px;
